@@ -3,7 +3,7 @@
 ## Using this image to run a Swift application in Linux
 
 ```
-FROM imerica/simple-swift
+FROM imichael/simple-swift
 
 CMD swift myapp.swift
 
@@ -11,7 +11,7 @@ CMD swift myapp.swift
 
 ## Using this to run a Swift REPL in a Linux
 ```
-docker run imerica/simple-swift
+docker run imichael/simple-swift
 ```
 
 ## License
